@@ -2,6 +2,8 @@ The server is configured for dotcloud server.
 The url for api call is
 http://socialflow-shanks_le.dotcloud.com/index.php/node_api/tweet/format/json
 
+Http header: Content-type: application/json
+
 The request method is POST.
 
 request format: an array of tweets: https://dev.twitter.com/docs/platform-objects/tweets
